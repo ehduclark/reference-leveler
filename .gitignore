@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# macOS
+.DS_Store
+
+# Generated analysis and render artifacts
+artifacts/
+
+# Temporary outputs
+*.tmp
+*.temp
+
+# Local user configuration
+/music-profile.json
+
+# Local publication acceptance backups
+/tests/*.b3-backup
